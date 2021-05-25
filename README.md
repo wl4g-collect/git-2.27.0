@@ -1,5 +1,7 @@
 [![Build status](https://github.com/git/git/workflows/CI/PR/badge.svg)](https://github.com/git/git/actions?query=branch%3Amaster+event%3Apush)
 
+[Compile install from sources](https://blogs.wl4g.com/linux%E7%A6%BB%E7%BA%BF%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85git/)
+
 Git - fast, scalable, distributed revision control system
 =========================================================
 
